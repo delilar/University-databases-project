@@ -27,18 +27,25 @@ Features
 Getting Started
 ---------------
 
-1.  Clone the repository:
+1.  Clone the repository
 
 2. Install dependencies:
 
-3.  Configure the database connection:
+   `
+   npm install
+    `
+    `
+   npm i nodemon
+   `
+
+4.  Configure the database connection:
     
     *   Update the necessary connection details in the backend code to connect to your MS Access database.
         
-4.  Start the development server:
+5.  Start the development server
 
     
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Copynpm start   `
+`npm start`
 
 5.  Open the application in your browser:
     
