@@ -51,7 +51,7 @@ Getting Started
     
     *   The frontend will be available at http://localhost:3000
         
-    *   The backend API will be available at http://localhost:5000
+    *   The backend API will be available at http://localhost:3001
         
 
 Technologies Used
